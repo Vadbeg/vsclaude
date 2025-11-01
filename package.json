@@ -3,6 +3,7 @@
   "displayName": "vsclaude",
   "description": "vsclaude opens sidebar terminal and runs claude command for you",
   "version": "0.0.1",
+  "icon": "vsclaude.png",
   "engines": {
     "vscode": "^1.105.0"
   },
@@ -16,7 +17,7 @@
       {
         "command": "vsclaude.openClaudeTerminal",
         "title": "Open Claude Terminal",
-        "icon": "$(terminal)"
+        "icon": "vsclaude.png"
       }
     ],
     "menus": {
