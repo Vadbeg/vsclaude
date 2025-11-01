@@ -1,8 +1,11 @@
 {
   "name": "vsclaude",
-  "displayName": "vsclaude",
-  "description": "vsclaude opens sidebar terminal and runs claude command for you",
+  "displayName": "VSClaude",
+  "description": "Quick access to Claude CLI in a persistent terminal split",
   "version": "0.0.1",
+  "publisher": "vadbeg",
+  "author": "Vadim Titko",
+  "license": "MIT",
   "icon": "vsclaude.png",
   "engines": {
     "vscode": "^1.105.0"
@@ -10,6 +13,21 @@
   "categories": [
     "Other"
   ],
+  "keywords": [
+    "claude",
+    "terminal",
+    "ai",
+    "cli",
+    "anthropic"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Vadbeg/vsclaude.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Vadbeg/vsclaude/issues"
+  },
+  "homepage": "https://github.com/Vadbeg/vsclaude#readme",
   "activationEvents": [],
   "main": "./out/extension.js",
   "contributes": {

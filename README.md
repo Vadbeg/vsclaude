@@ -4,6 +4,8 @@ A VS Code extension that opens Claude CLI in a persistent terminal split on the 
 
 ## Features
 
+![Demo](vsclaude_demo.gif)
+
 - **Quick Access**: Click the button in the editor title bar to instantly open Claude terminal
 - **Right Split View**: Terminal opens in a new editor column to the right, keeping your code visible
 - **Persistent Terminal**: Reuses the same terminal instance, staying visible across file navigation
