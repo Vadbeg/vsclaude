@@ -4,7 +4,7 @@
   "description": "Quick access to Claude CLI in a persistent terminal split",
   "version": "0.0.1",
   "publisher": "vadbeg",
-  "author": "Vadim Titko",
+  "author": "Vadzim Tsitko",
   "license": "MIT",
   "icon": "vsclaude.png",
   "engines": {
