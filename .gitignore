@@ -1,0 +1,16 @@
+# Compiled output
+out/
+*.vsix
+
+# Dependencies
+node_modules/
+
+# Test cache
+.vscode-test/
+.vscode-test.*
+
+# macOS
+.DS_Store
+
+# Editor settings (optional - comment out if you want to share IDE settings)
+.vscode/
