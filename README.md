@@ -2,6 +2,10 @@
 
 A VS Code extension that opens Claude CLI in a persistent terminal split on the right side of your editor.
 
+## Installation
+
+Install from the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=vadbeg.vsclaude)
+
 ## Features
 
 ![Demo](vsclaude_demo.gif)
